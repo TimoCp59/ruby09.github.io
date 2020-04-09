@@ -76,8 +76,7 @@ def valeur_coin
 end
 
 def valeur_6000
-	mybad = both.select{|k, v| v.to_f < 6000}
-	mybad.each {|devise, prix| puts "La devise #{devise} vaut #{prix}"} 
+	both.select{|k, v| v.to_f < 6000}
 end
 
 def valeur_max6000

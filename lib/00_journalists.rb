@@ -89,7 +89,6 @@ def journalists_epenser
 end
 
 def perform
-	system("clear")
 	choice = menu_display()
 	if choice != "quit"
 		puts "Résultats : #{send (choice)}"
