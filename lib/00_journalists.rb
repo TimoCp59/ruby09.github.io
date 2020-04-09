@@ -2,32 +2,99 @@ def journalists
 	journalists = ["@jcunniet","@PaulLampon","@Aziliz31","@ssoumier","@marionsouzeau","@gaellombart","@bendarag","@AurelieLebelle","@julienduffe","@thomaspoupeau","@LilyRossignol","@ClairGuedon","@stephanieauguy","@claw_prolongeau","@_JulieMenard","@LColcomb","@Zlauwereys","@MeLonguet","@DorotheeLN","@NolwennCosson","@ADaboval","@Remibaldy","@bderveaux","@amandechap","@ELODIESOULIE","@nbongarcon","@HeloAb","@Panamorama","@gregplou","@BenoitBerthe","@LauraBruneau89","@Anthony_Lieures","@Sharonwaj","@mcsonkin","@pverduzier","@emiliel3","@Julien_MARION","@SophiFay","@bdelombre","@annalecerf","@AdriaBudry","@DejNikolic","@iJaffre","@CyrusleVirus","@GPardigon","@e_vallerey","@IsabelleSouquet","@AudeDavidRossi","@Yoann_Pa","@CeliaPenavaire","@perraultvincent","@cboulate","@JustineWeyl","@Paulinejacot","@juliechab","@aslechevallier","@phnou","@Seb_Pommier","@Alex_Bensaid","@GuillaumeGaven","@annelaurechouin","@Oliviader","@guerricp","@JMMarchaut","@cyceron","@gregory_raymond","@vhunsinger","@l_peillon","@fannyguinochet","@EAssayag","@KibweAdom","@YvonHerry","@JohanGarciajg","@saidlabidi","@lauranneprov","@LeaDavy","@francois_remy","@CGuicheteau","@FloMaillet","@m_perroud","@oBrunet_TSMF","@MoonVdc","@jc2taille","@NellyMoussu","@VirginK","@b_misa","@FabriceCouste","@barbara_prose","@lelia2m","@brunoaskenazi","@laurenechamp","@ysisbox","@juliengagliardi","@PierreLel","@kdeniau","@_TerraInc","@DominicArpin","@antoinfonteneau","@nanotousch","@jb_roch","@YaniKhezzar","@Anne_Bechet","@NCapart","@SamyBenNaceur","@Joumany","@Julietteraynal","@TGiraudet","@SaraTanit","@HappeFrederic","@antoinellorca","@michelpicot","@Sev_Ryne","@bobdobolino","@murdever","@YGrandmontagne","@Mnyo","@EdKOSCIANSKI","@tnoisette","@jankari","@delbello_rom","@rflechaux","@NadiaSorelli","@IT_Digital","@abarbaux","@PhilippeLeroy","@schaptal","@marionspee","@lisavignoli","@ChloeAeberhardt","@MartineJacot","@JuliaPascualita","@curieusedetout","@sgraveleau","@bif_o","@ElisaPineau","@zinebdryef","@apiquard","@pierrehaski","@StephanieDelmas","@Blandine_Garot","@vergara_i","@evan_lebastard","@SophieVclt","@OlivierLevrault","@alicedorgeval","@LouiseMalnoy","@alix_fx","@pierre_baudis","@LucMagoutier","@AgatheMuller","@SGianninelli","@PaulineBoyer33","@NaomiHalll","@romaindlx","@marionbr","@Burtschy","@JacobEtienne","@as_lizzani","@marie_simon","@LaureDaussy","@FabriceAmedeo","@LoubnaChlaikhy","@PlummerWilliam","@OlivierMarin1","@alaurefremont","@mwesfreid","@ChBaDe","@pmathon","@theobaldmarie","@Lnpagesy","@marclandre","@paoliniesther","@Feertchak","@JBLitzler","@GuillaumeErrard","@quentinperinel","@TristanQM","@mlbo","@constancejamet","@LoraTerrazas","@emiliegeffray","@Mathilde_Sd","@CaroPiquet","@DCanivez","@TIM_7375","@blandinelc","@ivanrioufol","@arthurberdah","@SarahLecoeuvre","@guillaume_gui","@DamienMercereau","@W_Chloe","@Assma_MD","@EugenieBastie","@HiTech_lexpress","@bcondominas","@Laurie_Z_","@jeanfrancgerard","@MathieuPagura","@BGUYF","@AlainPiffaretti","@AudreyKucinskas","@julienhory","@Pierrefalga","@TiphThuillier","@cdaniez","@LigerBaptiste","@D_Peras","@julie_dlb","@Fatiha_Temmouri","@julian2lamancha","@GaetaneDeljurie","@JulianMattei","@M_Vicuna","@DeBruynOlivier","@Nehed_Jendoubi","@antoine_grenapi","@ColonnaGen","@VictoriaGairin","@Clement_Lacombe","@TVigoureux","@MargauxObriot","@solinedelos","@RocheSabine","@dangerkens","@EdouardDutour","@MDondeyne","@DupuisNathalie1","@bouscarel","@Mathieu2jean","@Sophie_T_J","@laurentcalixte","@patrockwilliams","@PascaleKremer","@AlexJaquin","@LauraIsaaz","@cath_robin","@Del_Gautherin","@Isaduriez","@lucietuile","@AugeyBastien","@mcastagnet","@AminaKalache","@mvaudano","@CParrot","@ombelinetips","@_JoinLion","@BarbolosiRose","@ToiBruno1","@FloraClodic","@xjbdx","@AlexiaEy","@Emjy_STARK","@elcoco01","@rabilebon","@pflovens_","@FabriceFrossard","@MorganeSERRES","@MarjolaineKoch","@edgarsnow","@SRNLF","@CChassigneux","@KerinecMoran","@NassiraELM","@NewsRicard","@Sandreene","@Emilezrt","@Pierre_Do","@Micode","@CColumelli","@DavidAbiker","@ClementBergantz","@benjaminrabier","@celinekallmann","@edwyplenel","@C_Barbier","@JJBourdin_RMC","@LaurenceFerrari","@aslapix","@IsaMillet","@MaximeSwitek","@tomjoubert","@jszanchi","@roqueeva","@XavierBiseul","@florencesantrot","@AntoineCrochet","@freeman59","@MaudeML","@philippe_gulpi","@mathieum76","@kiouari","@imanemoustakir","@BenedicteMallet","@Emilie_Brouze","@antoinebarret","@_nicolasbocquet","@remibuhagiar","@CourretB","@AymericRobert","@miraelmartins","@pmaniere","@jesuisraphk","@David_Ingram","@pcelerier","@technomedia","@Geraldinedauver","@ThierryLabro","@Newsdusud","@nrauline","@gbregeras","@SCouasnonBFM","@actualites_nrv","@dimitrimoulins","@oli_aura","@FabieChiche","@Vincent_Raimblt","@ChristophGreuet","@PAlbuchay","@MarrauddesGrot","@vtalmon","@cedric","@olivierfrigara","@Julien_Jay","@LydiaBerroyer","@Shuua","@datisdaz","@Steuph","@ameliecharnay","@Bruno_LesNums","@LelloucheNico","@CciliaDiQuinzio","@Elodie_C","@SylvRolland","@Kocobe","@FL_Debes","@jdupontcalbo","@GarciaVictor_","@NicoRichaud","@RHoueix","@simottel","@DamienLicata","@annabelle_L","@Lea_Lejeune","@axel_deb","@marin_eben","@ptiberry","@MatthieuDelach","@sandrinecassini","@benjaminferran","@ppgarcia75","@NotPatrick","@ivalerio","@FabienneSchmitt","@alexgoude","@JeromeColombain","@manhack","@Capucine_Cousin","@Fsorel","@oliviertesquet","@marjoriepaillon","@ginades","@PierreTran","@DelphineCuny","@reesmarc","@lauratenoudji","@ldupin","@carolinedescham","@Lucile_Quillet","@cgabizon","@Allocab","@epenser","@JAGventeprivee","@frwrds","@Laure__Bourdon","@Xavier75","@maximeverner","@s_jourdain","@LoriHelloc"]
 end
 
-puts "Hey, bienvenue dans ce fichier ruby, voici les différentes infos demandées"
+def menu_choice_checker(choice)
+	case choice
+	when "1"
+		return "journalists_total"
+	when "2"
+		return "journalists_number"
+	when "3"
+		return "journalists_aude"
+	when "4"
+		return "journalists_majfirst"
+	when "5"
+		return "journalists_maj"
+	when "6"
+		return "journalists_underscore"
+	when "7"
+		return "journalists_alpha"
+	when "8"
+		return "journalists_short"
+	when "9"
+		return "journalists_epenser"
+	when "quit"
+		return "quit"	
+	else 
+		return "ERROR"
+	end
+end
 
-puts "Il y a #{journalists.length} handle dans cet Array"
+def menu_display
+	while(true)
+		puts "Hey, which option do you want ?"
+		puts "1 - Combien il y a t-il de journaliste au total ?"
+		puts "2 - Combien de handle ont un numéro ?"
+		puts "3 - Combien de handle comporte : aude"
+		puts "4 - Combien de handle commence par une majuscule ?"
+		puts "5 - Combien de majuscules il y a t-il dans l'array ?"
+		puts "6 - Combien il y a t-il de underscore dans l'array ?"
+		puts "7 - Avoir les handle par ordre alphabétique"
+		puts "8 - Quels sont les 50 handle les plus courts ?"
+		puts "9 - Où se trouve le handle @epenser ?"
+		puts "Pour quitter tapez quit"
+		print ">"
+		choice = menu_choice_checker(gets.chomp)
+		if (choice == "ERROR")
+			puts "Merci de renseigner une demande correcte"
+		else
+			return (choice)			
+		end
+	end
+end
 
-###Fonction grep vérifie chaque string d'une arrêt###
-puts "il y a #{journalists.grep(/[0-9]/).count} handle qui comportent un numéro"
+def journalists_total
+	journalists.length
+end
 
-puts "Il y a #{journalists.grep(/[Aa]ude/).count} handle qui comporte : aude"
+def journalists_number
+	journalists.grep(/[0-9]/).count
+end
 
-puts "il y a #{journalists.grep(/^@[A-Z]/).count} qui commence par une majuscule après le @ "
+def journalists_aude
+	journalists.grep(/[Aa]ude/).count
+end
 
-puts "il y a #{journalists.grep(/[[:upper:]]/).count} majusucle au total dans l'array "
+def journalists_majfirst
+	journalists.grep(/^@[A-Z]/).count
+end
 
-###Permet de passer l'array en une string###
-puts "Il y a au total #{journalists.to_s.count("_")} underscore dans l'array"
+def journalists_maj
+	journalists.grep(/[[:upper:]]/).count
+end
 
-puts " "
+def journalists_underscore
+	journalists.to_s.count("_")
+end
 
-###Toutes les strings sont mises en minuscules###
-puts "Voici les handle par ordre alphabétique : "
-puts puts journalists.map(&:downcase).sort
+def journalists_alpha
+	journalists.map(&:downcase).sort
+end
 
-puts " "
+def journalists_short
+	journalists.sort_by { |i| i.length }[0..49]
+end
 
-puts "Voici les 50 handle les plus courts"
-puts journalists.sort_by { |i| i.length }[0..49]
+def journalists_epenser
+	journalists.index("@epenser")
+end
 
-puts "La position de @epenser dans l'array est #{journalists.index("@epenser")}"
+def perform
+	system("clear")
+	choice = menu_display()
+	if choice != "quit"
+		puts "Résultats : #{send (choice)}"
+	end
+	puts "Bonne journée !"
+end
 
+perform
