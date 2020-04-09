@@ -10,14 +10,17 @@ def prix
 	"$0.042993", "$0.000325", "$0.000271", "$0.002799", "$0.071591", "$1.17", "$0.001171", "$0.000651", "$0.000195", "$0.001562", "$0.008721", "$0.000065", "$0.000130", "$0.002473", "$0.000065", "$0.000325", "$0.656235", "$0.000254", "$0.000518", "$0.000065", "$0.054733", "$9.85", "$0.000520", "$0.000259", "$0.003288", "$0.006578", "$0.004273", "$0.024932", "$0.011394"]
 end
 
+###Suppression des "$"###
 def price
 	price = prix.map{|i| '%.6f' % i.delete( "$" ).to_f}
 end
 
+###Fonction principale###
 def both
 	both = devise.zip(price).to_h
 end
 
+###Début menu###
 def menu_choice_maker(choice)
 	case choice
 	when "1"
@@ -58,11 +61,13 @@ def menu_display
 		end
 	end
 end
+###Fin menu###
 
 def hash
 	both
 end
 
+###Group_by au cas ou il y en a plusieurs###
 def valeur_max
 	both.group_by{|k, v| v.to_f}.max.last
 end
@@ -71,6 +76,7 @@ def valeur_min
 	both.group_by{|k, v| v.to_f}.min.last
 end
 
+###Regular Expression pour faire des recherches###
 def valeur_coin
 	devise.grep(/coin/).count
 end
